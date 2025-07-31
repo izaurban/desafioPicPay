@@ -1,0 +1,8 @@
+com\picpaydesafio\repository\TransactionRepository.class
+com\picpaydesafio\domain\user\UserType.class
+com\picpaydesafio\PicpaydesafioApplication.class
+com\picpaydesafio\domain\transaction\Transaction.class
+com\picpaydesafio\domain\user\User.class
+com\picpaydesafio\service\impl\UserServiceImpl.class
+com\picpaydesafio\service\UserService.class
+com\picpaydesafio\repository\UserRepository.class
